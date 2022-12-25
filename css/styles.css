@@ -180,10 +180,11 @@ a {
   color: #e7e9fc;
 }
 
+.footer-info {
+  margin-right: 120px;
+}
+
 .footer-soc {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .footer-soc-title {
@@ -192,6 +193,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   align-items: center;
+  margin-bottom: 16px;
   color: var(--main-color);
 }
 
@@ -235,8 +237,6 @@ a {
 
 .footer .container {
   display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 /*____________HERO___________*/
